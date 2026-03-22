@@ -1,12 +1,12 @@
 # Student Management System
 
-## 📌 Project Description
+##  Project Description
 This is a full-stack web application developed using Spring Boot.  
 It allows users to manage students and courses efficiently.
 
 ---
 
-## 🚀 Features
+##  Features
 - Add Student
 - View Students
 - Edit Student
@@ -16,7 +16,7 @@ It allows users to manage students and courses efficiently.
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 - Java
 - Spring Boot
 - Thymeleaf
@@ -25,19 +25,13 @@ It allows users to manage students and courses efficiently.
 
 ---
 
-## 🔄 Project Flow
+##  Project Flow
 User → Controller → Repository → Database → Controller → View
 
 ---
 
-## 👨‍💻 Team Contribution
-- UI Design: Member 1 & 2
-- Backend Logic: Member 4
-- Database: Member 3
 
----
-
-## ▶️ How to Run
+##  How to Run
 1. Clone the repository
 2. Open in Spring Tool Suite / IntelliJ
 3. Run `DemoApplication.java`
